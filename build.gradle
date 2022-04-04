@@ -15,7 +15,7 @@ group = project.maven_group
 repositories {
     maven { url 'https://masa.dy.fi/maven' }
     maven { url = "https://www.cursemaven.com" }
-    macen { url = 'https://maven.terraformersmc.com/releases/com/terraformersmc/modmenu/3.1.0' }
+    maven { url = 'https://maven.terraformersmc.com/releases/com/terraformersmc/modmenu/3.1.0' }
 }
 
 dependencies {
